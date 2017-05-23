@@ -87,10 +87,6 @@
                "MD5": "CE‌​DA‌​26‌​62‌​94‌​AC‌​6F‌​C8‌​4B‌​57‌​8C‌​32‌​1D‌​76‌​61‌​8E",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/HesaEngine.Wrapper.dll"
            },
-           "Launcher.exe": {
-               "MD5": "25‌​66‌​7A‌​40‌​69‌​6C‌​AE‌​6F‌​CE‌​5C‌​2B‌​5A‌​D6‌​7A‌​5B‌​A4",
-               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/Launcher.exe"
-           },
            "Runtime.dll": {
                "MD5": "D6‌​98‌​F8‌​6D‌​8D‌​8C‌​EA‌​D4‌​71‌​D0‌​D0‌​88‌​06‌​0E‌​EC‌​85",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/Runtime.dll"
@@ -128,10 +124,6 @@
            "HesaEngine.Wrapper.dll": {
                "MD5": "CE‌​DA‌​26‌​62‌​94‌​AC‌​6F‌​C8‌​4B‌​57‌​8C‌​32‌​1D‌​76‌​61‌​8E",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/HesaEngine.Wrapper.dll"
-           },
-           "Launcher.exe": {
-               "MD5": "25‌​66‌​7A‌​40‌​69‌​6C‌​AE‌​6F‌​CE‌​5C‌​2B‌​5A‌​D6‌​7A‌​5B‌​A4",
-               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/Launcher.exe"
            },
            "Runtime.dll": {
                "MD5": "D6‌​98‌​F8‌​6D‌​8D‌​8C‌​EA‌​D4‌​71‌​D0‌​D0‌​88‌​06‌​0E‌​EC‌​85",
