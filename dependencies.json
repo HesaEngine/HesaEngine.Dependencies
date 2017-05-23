@@ -140,5 +140,9 @@
        }
    },
    "Launcher": {
+       "Launcher.exe": {
+           "MD5": "25‌​66‌​7A‌​40‌​69‌​6C‌​AE‌​6F‌​CE‌​5C‌​2B‌​5A‌​D6‌​7A‌​5B‌​A4",
+           "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/Launcher/Launcher.exe"
+       }
    }
 }
