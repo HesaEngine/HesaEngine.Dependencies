@@ -1,6 +1,11 @@
 {
 	"news": [
 		{
+		  "PostDate": "2017-05-24 01:31 UTC-4",
+		  "Header": "Bug fixes",
+		  "Content": "Fixed an issue with drawings\n Now working on resolving an issue causing orbwalker to not attack enemy champions and not casting spells on them."
+		},
+		{
 		  "PostDate": "2017-05-23 02:17 UTC-4",
 		  "Header": "7.10HF Updated!",
 		  "Content": "HE has been updated for patch 7.10HF and is undetected and safe to use Kappa."
