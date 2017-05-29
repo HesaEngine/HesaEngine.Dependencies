@@ -36,7 +36,7 @@
    "Patches": {
        "7.10HF": {
            "HesaEngine.exe": {
-               "MD5": "35‌​42‌​A5‌​3C‌​CB‌​76‌​1D‌​25‌​97‌​73‌​4E‌​71‌​5C‌​73‌​DA‌​46",
+               "MD5": "3E‌​C1‌​32‌​BC‌​00‌​DA‌​D6‌​86‌​0F‌​FE‌​C5‌​B9‌​68‌​B0‌​84‌​06",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/HesaEngine.exe"
            },
            "HesaEngine.exe.config": {
@@ -44,7 +44,7 @@
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/HesaEngine.exe.config"
            },
            "Runtime.dll": {
-               "MD5": "40‌​1B‌​78‌​37‌​40‌​50‌​42‌​BD‌​C1‌​9E‌​16‌​D0‌​83‌​BE‌​9F‌​BA",
+               "MD5": "29‌​BA‌​03‌​6D‌​A2‌​0E‌​86‌​82‌​F4‌​6D‌​85‌​50‌​B1‌​17‌​E2‌​90",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/Runtime.dll"
            },
            "settings.cfg": {
@@ -52,7 +52,7 @@
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/settings.cfg"
            },
            "Dependencies\\HesaEngine.Core.dll": {
-               "MD5": "E8‌​62‌​0D‌​80‌​74‌​EE‌​D5‌​CC‌​26‌​FF‌​E2‌​77‌​6B‌​59‌​3D‌​C6",
+               "MD5": "8D‌​91‌​D7‌​4F‌​1E‌​7A‌​5B‌​EE‌​A6‌​A9‌​5F‌​22‌​4C‌​43‌​FE‌​6C",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/Dependencies/HesaEngine.Core.dll"
            },
            "Dependencies\\HesaEngine.Core.dll.config": {
@@ -60,7 +60,7 @@
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/Dependencies/HesaEngine.Core.dll.config"
            },
            "Dependencies\\HesaEngine.Sandbox.dll": {
-               "MD5": "1E‌​55‌​DC‌​68‌​18‌​35‌​EA‌​A6‌​FB‌​85‌​62‌​EA‌​8C‌​6B‌​97‌​8E",
+               "MD5": "DE‌​D4‌​5B‌​CD‌​23‌​3F‌​0E‌​2A‌​14‌​E0‌​F6‌​84‌​EC‌​0F‌​89‌​AC",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/Dependencies/HesaEngine.Sandbox.dll"
            },
            "Dependencies\\HesaEngine.Unmanaged.dll": {
@@ -68,8 +68,12 @@
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/Dependencies/HesaEngine.Unmanaged.dll"
            },
            "Dependencies\\HesaEngine.Wrapper.dll": {
-               "MD5": "D0‌​1D‌​CE‌​F4‌​39‌​B1‌​D0‌​09‌​B2‌​47‌​93‌​CC‌​E4‌​7F‌​92‌​96",
+               "MD5": "58‌​B0‌​31‌​1E‌​53‌​58‌​20‌​29‌​3E‌​09‌​FC‌​AD‌​45‌​AE‌​48‌​B5",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/Dependencies/HesaEngine.Wrapper.dll"
+           },
+           "Dependencies\\Runtime.dll": {
+               "MD5": "29‌​BA‌​03‌​6D‌​A2‌​0E‌​86‌​82‌​F4‌​6D‌​85‌​50‌​B1‌​17‌​E2‌​90",
+               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/Dependencies/Runtime.dll"
            },
            "Dependencies\\SharpDX.D3DCompiler.dll": {
                "MD5": "BE‌​F1‌​14‌​4D‌​3D‌​3E‌​D8‌​A3‌​8D‌​98‌​10‌​01‌​B4‌​51‌​A7‌​E9",
@@ -93,47 +97,71 @@
            }
        },
        "7.10HF Garena": {
-           "Boot.dll": {
-               "MD5": "36‌​A2‌​2A‌​19‌​03‌​05‌​D3‌​09‌​4A‌​79‌​B2‌​9A‌​D6‌​26‌​C2‌​24",
-               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/Boot.dll"
-           },
-           "HesaEngine.Core.dll": {
-               "MD5": "45‌​57‌​37‌​6F‌​36‌​86‌​B8‌​F2‌​FE‌​34‌​69‌​83‌​86‌​DF‌​C7‌​B6",
-               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/HesaEngine.Core.dll"
-           },
-           "HesaEngine.Core.dll.config": {
-               "MD5": "F7‌​08‌​50‌​F7‌​BB‌​35‌​40‌​D5‌​96‌​FD‌​3A‌​55‌​F0‌​B9‌​B7‌​01",
-               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/HesaEngine.Core.dll.config"
-           },
            "HesaEngine.exe": {
-               "MD5": "7E‌​ED‌​7A‌​37‌​8A‌​4D‌​BD‌​68‌​BE‌​14‌​90‌​51‌​1B‌​47‌​B7‌​7B",
+               "MD5": "3E‌​C1‌​32‌​BC‌​00‌​DA‌​D6‌​86‌​0F‌​FE‌​C5‌​B9‌​68‌​B0‌​84‌​06",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/HesaEngine.exe"
            },
            "HesaEngine.exe.config": {
                "MD5": "60‌​88‌​63‌​01‌​9D‌​B2‌​B0‌​F9‌​16‌​4D‌​E7‌​00‌​0E‌​2B‌​B3‌​A6",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/HesaEngine.exe.config"
            },
-           "HesaEngine.Wrapper.dll": {
-               "MD5": "24‌​B0‌​B6‌​51‌​1A‌​0A‌​7C‌​C0‌​0C‌​C5‌​75‌​6B‌​99‌​D3‌​60‌​FE",
-               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/HesaEngine.Wrapper.dll"
-           },
            "Runtime.dll": {
-               "MD5": "C2‌​1A‌​B4‌​03‌​43‌​71‌​E3‌​2F‌​D3‌​E5‌​9B‌​3B‌​D6‌​0B‌​92‌​C9",
+               "MD5": "29‌​BA‌​03‌​6D‌​A2‌​0E‌​86‌​82‌​F4‌​6D‌​85‌​50‌​B1‌​17‌​E2‌​90",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/Runtime.dll"
            },
-           "SharedLib.dll": {
-               "MD5": "6A‌​0D‌​A1‌​25‌​FC‌​95‌​F7‌​84‌​CF‌​32‌​1A‌​9D‌​2D‌​6C‌​D1‌​B8",
-               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/SharedLib.dll"
+           "settings.cfg": {
+               "MD5": "18‌​79‌​2D‌​BB‌​CC‌​1B‌​3B‌​37‌​96‌​94‌​E3‌​3D‌​C8‌​41‌​C6‌​04",
+               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/settings.cfg"
            },
-           "Starter.dll": {
-               "MD5": "5C‌​11‌​0E‌​EC‌​EB‌​5B‌​E2‌​48‌​BE‌​BA‌​B0‌​24‌​6F‌​2B‌​79‌​8D",
-               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/Starter.dll"
+           "Dependencies\\HesaEngine.Core.dll": {
+               "MD5": "8D‌​91‌​D7‌​4F‌​1E‌​7A‌​5B‌​EE‌​A6‌​A9‌​5F‌​22‌​4C‌​43‌​FE‌​6C",
+               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/Dependencies/HesaEngine.Core.dll"
+           },
+           "Dependencies\\HesaEngine.Core.dll.config": {
+               "MD5": "F7‌​08‌​50‌​F7‌​BB‌​35‌​40‌​D5‌​96‌​FD‌​3A‌​55‌​F0‌​B9‌​B7‌​01",
+               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/Dependencies/HesaEngine.Core.dll.config"
+           },
+           "Dependencies\\HesaEngine.Sandbox.dll": {
+               "MD5": "DE‌​D4‌​5B‌​CD‌​23‌​3F‌​0E‌​2A‌​14‌​E0‌​F6‌​84‌​EC‌​0F‌​89‌​AC",
+               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/Dependencies/HesaEngine.Sandbox.dll"
+           },
+           "Dependencies\\HesaEngine.Unmanaged.dll": {
+               "MD5": "E8‌​D5‌​70‌​9B‌​04‌​0C‌​F6‌​72‌​AC‌​90‌​C3‌​9B‌​9E‌​EB‌​9D‌​B2",
+               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/Dependencies/HesaEngine.Unmanaged.dll"
+           },
+           "Dependencies\\HesaEngine.Wrapper.dll": {
+               "MD5": "58‌​B0‌​31‌​1E‌​53‌​58‌​20‌​29‌​3E‌​09‌​FC‌​AD‌​45‌​AE‌​48‌​B5",
+               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/Dependencies/HesaEngine.Wrapper.dll"
+           },
+           "Dependencies\\Runtime.dll": {
+               "MD5": "29‌​BA‌​03‌​6D‌​A2‌​0E‌​86‌​82‌​F4‌​6D‌​85‌​50‌​B1‌​17‌​E2‌​90",
+               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/Dependencies/Runtime.dll"
+           },
+           "Dependencies\\SharpDX.D3DCompiler.dll": {
+               "MD5": "BE‌​F1‌​14‌​4D‌​3D‌​3E‌​D8‌​A3‌​8D‌​98‌​10‌​01‌​B4‌​51‌​A7‌​E9",
+               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/Dependencies/SharpDX.D3DCompiler.dll"
+           },
+           "Dependencies\\SharpDX.Direct3D9.dll": {
+               "MD5": "95‌​C4‌​B1‌​50‌​83‌​DF‌​E7‌​2D‌​6A‌​FA‌​CC‌​B8‌​5F‌​FF‌​7C‌​B9",
+               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/Dependencies/SharpDX.Direct3D9.dll"
+           },
+           "Dependencies\\SharpDX.DirectInput.dll": {
+               "MD5": "B5‌​2F‌​F0‌​83‌​05‌​E0‌​F6‌​48‌​60‌​2C‌​40‌​A6‌​4C‌​15‌​95‌​ED",
+               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/Dependencies/SharpDX.DirectInput.dll"
+           },
+           "Dependencies\\SharpDX.dll": {
+               "MD5": "C8‌​A9‌​32‌​A7‌​37‌​20‌​C1‌​8F‌​1A‌​2D‌​2B‌​93‌​52‌​D8‌​BF‌​55",
+               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/Dependencies/SharpDX.dll"
+           },
+           "Dependencies\\Starter.dll": {
+               "MD5": "5F‌​3B‌​B7‌​4D‌​A4‌​03‌​C7‌​38‌​1E‌​B0‌​CA‌​91‌​D1‌​EB‌​BC‌​4B",
+               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF%20Garena/Dependencies/Starter.dll"
            }
        }
    },
    "Launcher": {
        "Launcher.exe": {
-           "MD5": "07‌​CC‌​FF‌​CA‌​49‌​D6‌​B4‌​14‌​AF‌​E9‌​D1‌​3F‌​94‌​E7‌​AD‌​3F",
+           "MD5": "83‌​9B‌​AF‌​0E‌​FA‌​10‌​33‌​49‌​7C‌​EB‌​6C‌​3B‌​C7‌​2A‌​A6‌​96",
            "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/Launcher/Launcher.exe"
        }
    }
