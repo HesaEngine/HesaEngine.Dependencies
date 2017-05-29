@@ -50,7 +50,7 @@
            "settings.cfg": {
                "MD5": "18‌​79‌​2D‌​BB‌​CC‌​1B‌​3B‌​37‌​96‌​94‌​E3‌​3D‌​C8‌​41‌​C6‌​04",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/settings.cfg"
-           }
+           },
            "Dependencies\\HesaEngine.Core.dll": {
                "MD5": "E8‌​62‌​0D‌​80‌​74‌​EE‌​D5‌​CC‌​26‌​FF‌​E2‌​77‌​6B‌​59‌​3D‌​C6",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/Dependencies/HesaEngine.Core.dll"
