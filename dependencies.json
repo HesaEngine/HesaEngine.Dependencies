@@ -36,7 +36,7 @@
    "Patches": {
        "7.10HF": {
            "HesaEngine.exe": {
-               "MD5": "A3‌​9D‌​39‌​11‌​D5‌​8E‌​D3‌​D4‌​97‌​2A‌​4D‌​43‌​BD‌​55‌​C9‌​24",
+               "MD5": "A4‌​45‌​38‌​B4‌​72‌​ED‌​50‌​D5‌​A9‌​FB‌​79‌​51‌​AA‌​F3‌​F3‌​74",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/HesaEngine.exe"
            },
            "HesaEngine.exe.config": {
@@ -44,7 +44,7 @@
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/HesaEngine.exe.config"
            },
            "Runtime.dll": {
-               "MD5": "FB‌​B2‌​67‌​BC‌​09‌​7C‌​64‌​4E‌​D3‌​83‌​76‌​01‌​D6‌​1D‌​9D‌​BE",
+               "MD5": "D5‌​15‌​AE‌​D0‌​6B‌​2D‌​59‌​4E‌​34‌​A7‌​17‌​D5‌​9E‌​BC‌​BE‌​47",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/Runtime.dll"
            },
            "settings.cfg": {
@@ -52,7 +52,7 @@
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/settings.cfg"
            },
            "Dependencies\\HesaEngine.Core.dll": {
-               "MD5": "18‌​60‌​A0‌​49‌​C6‌​CA‌​DF‌​FF‌​EF‌​07‌​AC‌​C9‌​28‌​B5‌​98‌​F3",
+               "MD5": "4E‌​30‌​BA‌​9C‌​98‌​4A‌​23‌​79‌​4B‌​1D‌​A7‌​41‌​F1‌​45‌​48‌​7A",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/Dependencies/HesaEngine.Core.dll"
            },
            "Dependencies\\HesaEngine.Core.dll.config": {
@@ -72,7 +72,7 @@
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/Dependencies/HesaEngine.Wrapper.dll"
            },
            "Dependencies\\Runtime.dll": {
-               "MD5": "9E‌​86‌​EC‌​84‌​9D‌​F1‌​B7‌​8C‌​72‌​B4‌​5C‌​5B‌​4F‌​EF‌​78‌​18",
+               "MD5": "D5‌​15‌​AE‌​D0‌​6B‌​2D‌​59‌​4E‌​34‌​A7‌​17‌​D5‌​9E‌​BC‌​BE‌​47",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/Dependencies/Runtime.dll"
            },
            "Dependencies\\SharpDX.D3DCompiler.dll": {
