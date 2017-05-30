@@ -36,7 +36,7 @@
    "Patches": {
        "7.10HF": {
            "HesaEngine.exe": {
-               "MD5": "5B‌​B6‌​33‌​B6‌​AA‌​22‌​38‌​07‌​1E‌​D3‌​AB‌​76‌​D3‌​E5‌​7C‌​C3",
+               "MD5": "A3‌​9D‌​39‌​11‌​D5‌​8E‌​D3‌​D4‌​97‌​2A‌​4D‌​43‌​BD‌​55‌​C9‌​24",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/HesaEngine.exe"
            },
            "HesaEngine.exe.config": {
@@ -44,7 +44,7 @@
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/HesaEngine.exe.config"
            },
            "Runtime.dll": {
-               "MD5": "30‌​50‌​98‌​AF‌​06‌​03‌​D4‌​B3‌​FA‌​81‌​EC‌​A9‌​47‌​98‌​7E‌​3A",
+               "MD5": "FB‌​B2‌​67‌​BC‌​09‌​7C‌​64‌​4E‌​D3‌​83‌​76‌​01‌​D6‌​1D‌​9D‌​BE",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.10HF/Runtime.dll"
            },
            "settings.cfg": {
