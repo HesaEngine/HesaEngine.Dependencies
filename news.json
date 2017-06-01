@@ -2,6 +2,11 @@
 	"news": [
 		{
 		  "PostDate": "2017-05-24 01:31 UTC-4",
+		  "Header": "7.11 Updated!",
+		  "Content": "Hello everyone, we are now up to date for 7.11 and are still safe to use :)."
+		},
+		{
+		  "PostDate": "2017-05-24 01:31 UTC-4",
 		  "Header": "Bug fixes",
 		  "Content": "Fixed an issue with drawings\nNow working on resolving an issue causing orbwalker to not attack enemy champions\nand not casting spells on them."
 		},
