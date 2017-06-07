@@ -121,10 +121,6 @@
                "MD5": "F7‌​08‌​50‌​F7‌​BB‌​35‌​40‌​D5‌​96‌​FD‌​3A‌​55‌​F0‌​B9‌​B7‌​01",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.11/Dependencies/HesaEngine.Core.dll.config"
            },
-           "Dependencies\\HesaEngine.exe": {
-               "MD5": "A3‌​1C‌​32‌​20‌​4A‌​45‌​E5‌​5B‌​01‌​B1‌​6F‌​7F‌​4D‌​18‌​DA‌​A3",
-               "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.11/Dependencies/HesaEngine.exe"
-           },
            "Dependencies\\HesaEngine.Sandbox.dll": {
                "MD5": "8B‌​26‌​47‌​B6‌​83‌​09‌​43‌​60‌​AB‌​3B‌​1F‌​73‌​0B‌​73‌​6C‌​4D",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.11/Dependencies/HesaEngine.Sandbox.dll"
