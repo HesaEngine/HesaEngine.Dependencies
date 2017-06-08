@@ -1,6 +1,11 @@
 {
 	"news": [
 		{
+		  "PostDate": "2017-06-08 04:39 UTC-4",
+		  "Header": "Garena 7.11HF Updated!",
+		  "Content": "We have just updated HE to the latest garena build!"
+		},
+		{
 		  "PostDate": "2017-05-24 01:31 UTC-4",
 		  "Header": "7.11 Updated!",
 		  "Content": "Hello everyone, we are now up to date for 7.11 and are still safe to use :)."
