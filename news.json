@@ -1,6 +1,11 @@
 {
 	"news": [
 		{
+		  "PostDate": "2017-06-14 02:25 UTC-4",
+		  "Header": "7.12 Updated!",
+		  "Content": "HesaEngine is ready for 7.12!"
+		},
+		{
 		  "PostDate": "2017-06-08 04:39 UTC-4",
 		  "Header": "Garena 7.11HF Updated!",
 		  "Content": "We have just updated HE to the latest garena build!"
