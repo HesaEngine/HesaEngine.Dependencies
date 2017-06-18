@@ -52,7 +52,7 @@
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.12/settings.cfg"
            },
            "Dependencies\\HesaEngine.Core.dll": {
-               "MD5": "60‌​64‌​69‌​D0‌​47‌​10‌​76‌​55‌​56‌​BF‌​0B‌​76‌​F6‌​2D‌​DA‌​5A",
+               "MD5": "E4‌​19‌​16‌​75‌​E6‌​0B‌​CF‌​67‌​08‌​BE‌​1B‌​6E‌​02‌​85‌​22‌​E0",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.12/Dependencies/HesaEngine.Core.dll"
            },
            "Dependencies\\HesaEngine.Core.dll.config": {
@@ -68,11 +68,11 @@
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.12/Dependencies/HesaEngine.Unmanaged.dll"
            },
            "Dependencies\\HesaEngine.Wrapper.dll": {
-               "MD5": "0C‌​FB‌​EA‌​CC‌​DC‌​46‌​B9‌​BE‌​E8‌​96‌​36‌​67‌​98‌​84‌​4C‌​AD",
+               "MD5": "2F‌​34‌​7C‌​17‌​8E‌​CE‌​C1‌​24‌​F7‌​06‌​C7‌​E6‌​F6‌​D9‌​7A‌​F3",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.12/Dependencies/HesaEngine.Wrapper.dll"
            },
            "Dependencies\\Runtime.dll": {
-               "MD5": "BD‌​AA‌​71‌​41‌​8A‌​AB‌​A8‌​44‌​58‌​4E‌​99‌​3F‌​F0‌​05‌​AF‌​41",
+               "MD5": "0E‌​78‌​9E‌​7A‌​E4‌​D5‌​F9‌​60‌​53‌​C4‌​F7‌​A9‌​F0‌​66‌​7C‌​68",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.12/Dependencies/Runtime.dll"
            },
            "Dependencies\\SharpDX.D3DCompiler.dll": {
