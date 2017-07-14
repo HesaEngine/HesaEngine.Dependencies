@@ -52,7 +52,7 @@
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.14/settings.cfg"
            },
            "Dependencies\\Core.dll": {
-               "MD5": "9A‌​24‌​E0‌​33‌​1B‌​F1‌​D2‌​68‌​3E‌​09‌​07‌​4B‌​21‌​F2‌​34‌​20",
+               "MD5": "CA‌​43‌​F2‌​F8‌​49‌​39‌​68‌​E6‌​63‌​60‌​E1‌​23‌​98‌​E4‌​C9‌​4A",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.14/Dependencies/Core.dll"
            },
            "Dependencies\\HesaEngine.Core.dll": {
@@ -68,7 +68,7 @@
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.14/Dependencies/HesaEngine.Sandbox.dll"
            },
            "Dependencies\\HesaEngine.Unmanaged.dll": {
-               "MD5": "B3‌​28‌​AE‌​7C‌​E0‌​87‌​14‌​CB‌​2F‌​32‌​7A‌​D9‌​1D‌​EF‌​98‌​8E",
+               "MD5": "B6‌​53‌​23‌​7C‌​1A‌​F8‌​82‌​8B‌​C3‌​58‌​8C‌​78‌​04‌​56‌​4C‌​CD",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.14/Dependencies/HesaEngine.Unmanaged.dll"
            },
            "Dependencies\\HesaEngine.Wrapper.dll": {
@@ -96,7 +96,7 @@
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.14/Dependencies/SharpDX.dll"
            },
            "Dependencies\\Starter.dll": {
-               "MD5": "33‌​B2‌​81‌​99‌​5B‌​0F‌​C9‌​AC‌​BA‌​AB‌​98‌​04‌​D0‌​C2‌​6D‌​1A",
+               "MD5": "79‌​08‌​E3‌​66‌​96‌​2B‌​F4‌​DA‌​C7‌​AF‌​1C‌​D4‌​35‌​4E‌​FD‌​CB",
                "Download": "https://github.com/HesaEngine/HesaEngine.Dependencies/raw/master/System/7.14/Dependencies/Starter.dll"
            }
        }
